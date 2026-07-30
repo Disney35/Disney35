@@ -13,12 +13,11 @@ Passionate about building secure, scalable, and high-performance backend applica
 ## 👩‍💻 About Me
 
 - 💼 Java Backend Developer with hands-on experience in Spring Boot & Microservices.
-- 🧪 Former Associate Software Development Engineer in Testing (ASDET).
+- 🧪 Associate Software Development Engineer in Testing (ASDET).
 - 💳 Developed Stripe & PayPal Payment Integration Systems.
 - 🔗 Experienced in REST API Development & API Testing.
 - ☁️ Skilled in AWS, Docker, Redis, Apache Kafka & MySQL.
 - 🤝 Strong team player with Agile Scrum experience.
-- 📍 Vijayawada, Andhra Pradesh, India.
 
 ---
 
@@ -39,74 +38,27 @@ Passionate about building secure, scalable, and high-performance backend applica
 
 ## 💼 Professional Experience
 
-### 💳 Java Backend Developer Trainee
-**🏢 HulkHire | 🌐 Remote**  
-**📅 Feb 2026 – May 2026**
+- **💳 Java Backend Developer Trainee | HulkHire (Feb 2026 – May 2026)**  
+  Developed secure payment integration systems using Java, Spring Boot, Microservices, REST APIs, Redis, Kafka, and AWS.
 
-- 🚀 Developed Stripe & PayPal Payment Integration Systems using Java & Spring Boot.
-- 🔗 Built secure REST APIs for payment processing and webhook handling.
-- 🔐 Implemented OAuth 2.0, Basic Authentication & HMAC-SHA256.
-- ⚡ Integrated Redis caching & Apache Kafka messaging.
-- ☁️ Deployed backend services using AWS EC2 & AWS RDS.
-- ✅ Wrote Unit Tests using JUnit & Mockito.
-- 📬 Performed API Testing using Postman.
-
----
-
-### 🧪 Associate Software Development Engineer in Testing (ASDET)
-**🏢 Qualizeal | 📍 Hyderabad**  
-**📅 Jul 2024 – Dec 2024**
-
-- 🤖 Automated web applications using Selenium WebDriver, Java & TestNG.
-- 📝 Executed Manual, Functional & Regression Testing.
-- 📡 Performed REST API Testing using Postman.
-- 🐞 Identified, tracked and collaborated with developers to resolve software defects.
-- 🤝 Worked in Agile Scrum development environments.
+- **🧪 Associate Software Development Engineer in Testing (ASDET) | Qualizeal (Jul 2024 – Dec 2024)**  
+  Automated software testing and validated web applications using Selenium WebDriver, Java, TestNG, Postman, and Agile methodologies.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💳 PayPal Payment Integration System
-
-**🛠️ Technologies:** Java, Spring Boot, Microservices, MySQL, Redis, Apache Kafka, AWS
-
-- ✔️ Developed secure PayPal payment workflows.
-- ✔️ Built payment lifecycle management using REST APIs.
-- ✔️ Implemented OAuth 2.0 authentication.
-- ✔️ Integrated Redis caching & Kafka messaging.
-- ✔️ Deployed backend services on AWS.
-
----
+Developed a secure Spring Boot microservices-based payment integration system with OAuth 2.0 authentication, Redis caching, Kafka messaging, and AWS deployment.
 
 ### 💰 Stripe Payment Integration System
+Built a secure Stripe payment gateway using Spring Boot, REST APIs, webhook integration, HMAC-SHA256 authentication, and centralized exception handling.
 
-**🛠️ Technologies:** Java, Spring Boot, REST APIs, Redis, AWS
+### 🛣️ Detection and Classification of Potholes using CNN
+Designed an AI-powered road monitoring system using YOLOv8, CNN, and OpenCV for real-time pothole detection and GPS-based alert notifications.
 
-- ✔️ Built Stripe payment session APIs.
-- ✔️ Implemented secure webhook processing.
-- ✔️ Added HMAC-SHA256 request validation.
-- ✔️ Improved application reliability with centralized exception handling.
-
----
-
-### 🛣️ Detection & Classification of Potholes using CNN
-
-**🛠️ Technologies:** Python, YOLOv8, OpenCV, CNN
-
-- ✔️ Developed a real-time pothole detection system.
-- ✔️ Used OpenCV for image preprocessing.
-- ✔️ Integrated GPS-based alert notifications.
-
----
-
-### 😊 Facial Feature & Emotion Detection using CNN
-
-**🛠️ Technologies:** Python, CNN, OpenCV
-
-- ✔️ Developed a real-time facial emotion recognition system.
-- ✔️ Implemented emotion detection and gender prediction.
-- ✔️ Evaluated model performance using Accuracy & F1-Score.
+### 😊 Facial Feature and Emotion Detection using CNN
+Developed a real-time deep learning application using CNN and OpenCV for facial emotion recognition and gender prediction.
 
 ---
 
