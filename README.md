@@ -1,215 +1,147 @@
 <h1 align="center">Hi 👋, I'm Bezawada Disney Pallavi</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • Microservices • REST APIs
+Java Backend Developer | Associate Software Development Engineer in Testing (ASDET)
 </h3>
 
 <p align="center">
-Passionate about building secure, scalable, and high-performance backend applications using Java and Spring Boot.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Disney35&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+Passionate about building secure, scalable, and high-performance backend applications using Java and Spring Boot while ensuring software quality through manual and automation testing.
 </p>
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
-I'm a **Java Backend Developer** with hands-on experience in building secure backend applications using **Java, Spring Boot, REST APIs, and Microservices**.
-
-During my training at **HulkHire**, I worked on **Stripe** and **PayPal Payment Integration Systems**, implementing payment workflows, webhook handling, authentication, and transaction management.
-
-I also have industry experience as an **Associate Software Development Engineer in Testing (ASDET)**, where I built automation frameworks using Selenium WebDriver, TestNG, Postman, and Java.
-
-I enjoy solving backend challenges, designing scalable architectures, and continuously learning modern technologies.
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-
-## 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 🗄️ Database & Messaging
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-## 🧪 Testing
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 💼 Java Backend Developer with hands-on experience in Spring Boot & Microservices.
+- 🧪 Former Associate Software Development Engineer in Testing (ASDET).
+- 💳 Developed Stripe & PayPal Payment Integration Systems.
+- 🔗 Experienced in REST API Development & API Testing.
+- ☁️ Skilled in AWS, Docker, Redis, Apache Kafka & MySQL.
+- 🤝 Strong team player with Agile Scrum experience.
+- 📍 Vijayawada, Andhra Pradesh, India.
 
 ---
 
-# 💼 Professional Experience
+## 🛠️ Technical Skills
 
-## 💳 Java Backend Developer Trainee | HulkHire
-
-- Built Stripe & PayPal payment integration systems.
-- Developed REST APIs using Spring Boot.
-- Implemented OAuth2, Basic Authentication & HMAC-SHA256.
-- Integrated Redis caching.
-- Used Kafka for asynchronous messaging.
-- Deployed services on AWS.
-- Wrote unit tests using JUnit & Mockito.
-
----
-
-## 🧪 Associate Software Development Engineer in Testing | Qualizeal
-
-- Automated testing using Selenium WebDriver.
-- Built reusable TestNG automation suites.
-- Performed API Testing using Postman.
-- Worked in Agile Scrum teams.
-- Executed Regression & Functional Testing.
+| 📂 Category | 💡 Technologies |
+|-------------|-----------------|
+| 💻 **Programming Languages** | Java, Python, C, PHP, TypeScript |
+| ⚙️ **Backend Technologies** | Spring, Spring Boot, Spring JDBC, REST APIs, Microservices, Node.js, Apache Tomcat |
+| 🌐 **Frontend Technologies** | HTML5, CSS3, JavaScript, Bootstrap |
+| 🗄️ **Database & Messaging** | MySQL, Redis, Apache Kafka |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Maven |
+| 🧪 **Testing** | Selenium WebDriver, TestNG, JUnit, Mockito, Postman, Manual Testing, API Testing, Functional Testing, Regression Testing |
+| 🔐 **Security** | OAuth 2.0, Basic Authentication, HMAC-SHA256, Access Token Management |
+| 🛠️ **Tools & IDEs** | Git, GitHub, Bitbucket, SourceTree, Eclipse, VS Code, DBeaver, Jira, MobaXterm |
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Professional Experience
 
-## 💳 PayPal Payment Integration System
+### 💳 Java Backend Developer Trainee
+**🏢 HulkHire | 🌐 Remote**  
+**📅 Feb 2026 – May 2026**
 
-- Spring Boot Microservices
-- OAuth2 Authentication
-- Kafka Messaging
-- Redis Cache
-- AWS Deployment
-- MySQL Database
-
----
-
-## 💰 Stripe Payment Integration System
-
-- Stripe Session APIs
-- Webhook Integration
-- HMAC Security
-- Redis Optimization
-- Exception Handling
+- 🚀 Developed Stripe & PayPal Payment Integration Systems using Java & Spring Boot.
+- 🔗 Built secure REST APIs for payment processing and webhook handling.
+- 🔐 Implemented OAuth 2.0, Basic Authentication & HMAC-SHA256.
+- ⚡ Integrated Redis caching & Apache Kafka messaging.
+- ☁️ Deployed backend services using AWS EC2 & AWS RDS.
+- ✅ Wrote Unit Tests using JUnit & Mockito.
+- 📬 Performed API Testing using Postman.
 
 ---
 
-## 🛣️ Detection & Classification of Potholes
+### 🧪 Associate Software Development Engineer in Testing (ASDET)
+**🏢 Qualizeal | 📍 Hyderabad**  
+**📅 Jul 2024 – Dec 2024**
 
-- YOLOv8
-- CNN
-- OpenCV
-- GPS Alert System
-
----
-
-## 😊 Facial Feature & Emotion Detection
-
-- CNN
-- OpenCV
-- Emotion Detection
-- Gender Prediction
-- Real-Time Webcam Processing
+- 🤖 Automated web applications using Selenium WebDriver, Java & TestNG.
+- 📝 Executed Manual, Functional & Regression Testing.
+- 📡 Performed REST API Testing using Postman.
+- 🐞 Identified, tracked and collaborated with developers to resolve software defects.
+- 🤝 Worked in Agile Scrum development environments.
 
 ---
 
-# 🏅 Certifications
+## 🚀 Featured Projects
 
-- 🎓 Programming in Java (Elite) — NPTEL
-- ☁️ CCNAv7: Introduction to Networks — Cisco
-- 🧪 Software Testing — Coursera
-- ✅ Black Box & White Box Testing — Coursera
+### 💳 PayPal Payment Integration System
+
+**🛠️ Technologies:** Java, Spring Boot, Microservices, MySQL, Redis, Apache Kafka, AWS
+
+- ✔️ Developed secure PayPal payment workflows.
+- ✔️ Built payment lifecycle management using REST APIs.
+- ✔️ Implemented OAuth 2.0 authentication.
+- ✔️ Integrated Redis caching & Kafka messaging.
+- ✔️ Deployed backend services on AWS.
 
 ---
 
-# 🌟 Leadership
+### 💰 Stripe Payment Integration System
+
+**🛠️ Technologies:** Java, Spring Boot, REST APIs, Redis, AWS
+
+- ✔️ Built Stripe payment session APIs.
+- ✔️ Implemented secure webhook processing.
+- ✔️ Added HMAC-SHA256 request validation.
+- ✔️ Improved application reliability with centralized exception handling.
+
+---
+
+### 🛣️ Detection & Classification of Potholes using CNN
+
+**🛠️ Technologies:** Python, YOLOv8, OpenCV, CNN
+
+- ✔️ Developed a real-time pothole detection system.
+- ✔️ Used OpenCV for image preprocessing.
+- ✔️ Integrated GPS-based alert notifications.
+
+---
+
+### 😊 Facial Feature & Emotion Detection using CNN
+
+**🛠️ Technologies:** Python, CNN, OpenCV
+
+- ✔️ Developed a real-time facial emotion recognition system.
+- ✔️ Implemented emotion detection and gender prediction.
+- ✔️ Evaluated model performance using Accuracy & F1-Score.
+
+---
+
+## 🏆 Certifications
+
+- 🎓 Programming in Java (Elite) – NPTEL
+- 📜 Software Testing – Coursera
+- 📜 Black Box & White Box Testing – Coursera
+- 🌐 CCNAv7: Introduction to Networks – Cisco
+
+---
+
+## 🌟 Leadership
 
 ### 🎯 Student Lead – PALS
 
-- Led workshops and technical events.
-- Coordinated communication between students and faculty.
-- Organized student engagement initiatives.
+- 👥 Led student engagement initiatives and technical workshops.
+- 🤝 Coordinated communication between students, faculty & event organizers.
 
-### 👩‍🏫 Class Representative
+### 🎓 Class Representative
 
-- Represented 60+ students.
-- Coordinated academic communication.
-- Collected and shared student feedback.
+- 👩‍🏫 Represented 60+ students.
+- 📢 Coordinated academic communication between students and faculty.
 
 ---
 
-# 🌱 Currently Learning
+## 📫 Connect With Me
 
-- Spring Cloud
-- Kubernetes
-- Apache Kafka
-- Docker
-- AWS
-- System Design
-- CI/CD
-
----
-
-# 💼 Open To Opportunities
-
-- Java Backend Developer
-- Spring Boot Developer
-- Backend Engineer
-- Software Development Engineer
-
-📍 Vijayawada, Andhra Pradesh
-
-🌍 Open to Remote | Hybrid | On-site
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Disney35">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bezawada-disney-pallavi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:disneypallavi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- 📧 **Email:** disneypallavi@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/bezawada-disney-pallavi
+- 💻 **GitHub:** github.com/Disney35
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
+⭐ <b>Thank you for visiting my GitHub profile!</b><br>
+Let's connect, collaborate, and build something amazing together. 🚀
 </p>
