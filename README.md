@@ -119,19 +119,6 @@ Passionate about building secure, scalable, and high-performance backend applica
 
 ---
 
-## 🌟 Leadership
-
-### 🎯 Student Lead – PALS
-
-- 👥 Led student engagement initiatives and technical workshops.
-- 🤝 Coordinated communication between students, faculty & event organizers.
-
-### 🎓 Class Representative
-
-- 👩‍🏫 Represented 60+ students.
-- 📢 Coordinated academic communication between students and faculty.
-
----
 
 ## 📫 Connect With Me
 
