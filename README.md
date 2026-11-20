@@ -73,15 +73,12 @@ Passionate about building secure, scalable, and reliable backend applications us
 
 Developed a payment orchestration platform with multiple payment gateway integrations, intelligent routing, payment lifecycle management, retry mechanisms, failover handling, and secure webhook processing.
 
-🔗 [GitHub Repository](https://github.com/Disney35/payment-orchestration)
 
 ### 🤖 2. GrowEasy – AI-Powered CSV Importer
 **Technologies:** Next.js, React, TypeScript, Node.js, Express, Google Gemini AI
 
 Built an AI-powered CSV importer that helps users map CSV fields, validate data, process records in batches, and manage import results with error handling.
 
-🔗 [GitHub Repository](https://github.com/Disney35/groweasy-ai-csv-importer)  
-🌐 [Live Demo](https://groweasy-ai-csv-importer-delta.vercel.app/)
 
 ### 💰 3. Stripe Payment Integration System
 **Technologies:** Java, Spring Boot, REST APIs, Redis, Spring Security, MySQL, AWS
